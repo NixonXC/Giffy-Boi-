@@ -1,0 +1,6 @@
+The Bot is Completely non copy righted and free to use and i will be removing it soon from github 
+and you can install discord from pip
+if you wanna host this in your main system 
+or if you wanna host this in web for free you can go to replit.com 
+and sign in with google or sign up then just create a replit and select python or the laungage and name it whatever you want 
+Thanks for Reading.
