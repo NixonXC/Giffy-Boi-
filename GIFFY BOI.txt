@@ -97,8 +97,9 @@ async def gif21(ctx):
 
 client.run('Your Bot Token')
 
+________________________________________________________________________________________________________
 Make sure to run this on replit.com or you have to install discord with pip
- Bot Made by ㄥ乇・NixonXC 💖#6365 and join the support server at https://discord.gg/RYCYgRnkgP
+ Bot Made by ㄥ乇・NixonXC #6365 and join the support server at (support server currently unavalable)
 to add more gifs or other embeds links copy and paste the @client.command() whole msg and change the 
 Link Given to the Embed link then just add 22 if the number is like 21 to countinue the gif number
 then just run it in replit.com and to support you can join my discord server and you should also change 
