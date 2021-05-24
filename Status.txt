@@ -1,5 +1,0 @@
-@client.event
-async def on_ready():
-  activity = discord.Game(name="!gif |bot made by NixonXC 'Solo'", type=3)
-  await client.change_presence(status=discord.Status.idle, activity=activity)
-  print("Bot is ready!")
